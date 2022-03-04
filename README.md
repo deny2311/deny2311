@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - 🌱 learning Android Custom Rom
 - 💬 telegram id : @deny2311
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deny2311&theme=default&show_icons=true)
